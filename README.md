@@ -2,8 +2,6 @@
 <h3 align="center">Informatics Student at Universitas Mulawarman and LowKey Content Creator</h3>
 <img align ="right" alt ="kucing ngoding" width = '400' src = "https://tenor.com/bFytb.gif" >
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=elghazx&label=Profile%20views&color=0e75b6&style=flat" alt="elghazx" /> </p>
-
 - 🌱 I’m currently learning **Wordpress, JavaScript, PHP**
 
 - 💬 Ask me about **Photo manipulation, Video Editing**
