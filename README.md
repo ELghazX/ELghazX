@@ -3,7 +3,7 @@
 <img align ="right" alt ="kucing ngoding" width = '400' src = "https://tenor.com/bFytb.gif" >
 <br>
 
-- 🌱 I’m currently learning **Wordpress, JavaScript, PHP**
+- 📖 I’m currently learning **Wordpress, JavaScript, PHP**
 
 - 💬 Ask me about **Photo manipulation, Video Editing**
 
