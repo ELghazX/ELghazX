@@ -2,7 +2,7 @@
 <h3 align="center">Informatics Student at Universitas Mulawarman and LowKey Content Creator</h3>
 <br>
 <div>
-<img align ="right" alt ="kucing ngoding" width = '300px' src = "https://c.tenor.com/GOj9ZF_-ZOcAAAAC/tenor.gif" >
+<img align ="right" alt ="kucing ngoding" width = '250px' src = "https://c.tenor.com/GOj9ZF_-ZOcAAAAC/tenor.gif" >
 
 
 - 📖 I’m currently learning **Wordpress, JavaScript, PHP**
