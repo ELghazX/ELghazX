@@ -1,5 +1,5 @@
 <h1 align="center">Hi <img src = https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif style = "height:1em;">, I'm Muhammad Ghazali</h1>
-<h3 align="center">Informatics Student at <a href = "unmul.ac.id">Universitas Mulawarman</a> and LowKey Content Creator</h3>
+<h3 align="center">Informatics Student at <a href = "https://unmul.ac.id">Universitas Mulawarman</a> and LowKey Content Creator</h3>
 <br>
 <div>
 <img align ="right" alt ="kucing ngoding" width = '250px' src = "https://c.tenor.com/GOj9ZF_-ZOcAAAAC/tenor.gif" >
