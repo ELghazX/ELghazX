@@ -4,7 +4,7 @@
 <div>
 <img align ="right" alt ="kucing ngoding" width = '200px' src = "https://c.tenor.com/GOj9ZF_-ZOcAAAAC/tenor.gif" >
 
-- 📖 I’m currently learning **Wordpress, JavaScript, PHP**
+- 📖 I’m currently learning **Wordpress, Java**
 
 - 💬 Ask me about **Photo manipulation, Video Editing**
 
