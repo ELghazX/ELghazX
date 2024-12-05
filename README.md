@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi <img src = https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif style = "height:1em;">, I'm Muhammad Ghazali<br>Informatics Student at <a href = "https://unmul.ac.id">Universitas Mulawarman</a> and LowKey Content Creator<br><br><img align ="right" alt ="kucing ngoding" width = '200px' src = "https://c.tenor.com/GOj9ZF_-ZOcAAAAC/tenor.gif" >📖 I’m currently learning Wordpress, Java<br>💬 Ask me about Photo manipulation, Video Editing<br>👯 I’m looking to collaborate on random project<br>🤝 I’m looking for help with Laravel<br> 📫 How to reach me elghazoffice@gmail.com
+Hi <img src = https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif style = "height:1em;">, I'm Muhammad Ghazali<br>Informatics Student at <a href = "https://unmul.ac.id">Universitas Mulawarman</a> and LowKey Content Creator<br><br><img align ="right" alt ="kucing ngoding" width = '200px' src = "https://c.tenor.com/GOj9ZF_-ZOcAAAAC/tenor.gif" >📖 I’m currently learning Wordpress, Java<br>💬 Ask me about Photo manipulation, Video Editing<br>👯 I’m looking to collaborate on random project<br>🤝 I’m looking for help with Laravel<br> 
 
 
 ## 🌐 Socials:
