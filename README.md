@@ -1,8 +1,8 @@
 # 💫 About Me:
-Hi <img src = https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif style = "height:1em;">, I'm Muhammad Ghazali<br>Informatics Student at <a href = "https://unmul.ac.id">Universitas Mulawarman</a> and LowKey Content Creator<br><br><img align ="right" alt ="kucing ngoding" width = '200px' src = "https://c.tenor.com/GOj9ZF_-ZOcAAAAC/tenor.gif" >📖 I’m currently learning Wordpress, Java<br>💬 Ask me about Photo manipulation, Video Editing<br>👯 I’m looking to collaborate on random project<br>🤝 I’m looking for help with Laravel<br> 
+Hi <img src = https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif style = "height:1em;">, I'm Muhammad Ghazali<br>Informatics Student at <a href = "https://unmul.ac.id">Universitas Mulawarman</a> and LowKey Content Creator<br><br><img align ="right" alt ="kucing ngoding" width = '200px' src = "https://c.tenor.com/GOj9ZF_-ZOcAAAAC/tenor.gif" >📖 I’m currently learning Wordpress, Java<br>💬 Ask me about Photo manipulation, Video Editing<br>👯 I’m looking to collaborate on random project<br>🤝 I’m looking for help with devops thing<br> 
 
 
-## 🌐 Socials:
+## 🌐 Socials
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/e.elghaz) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/elghaz.ali) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/muhammad-ghazali-16a946334) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@e.elghaz._) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@UCftfaDcIkMyoX7M7sWtOLGw) 
 
 # 💻 Tech Stack:
