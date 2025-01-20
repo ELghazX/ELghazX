@@ -12,7 +12,7 @@ Hi <img src = https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif 
 - ```Laptop``` - Lenovo Ideapad Gaming 3i 15IAH7
   - ```CPU``` - Intel i5-12500H
   - ```RAM``` - 16GB
-  - ```Operaiting System``` - GNU/Linux
+  - ```Operating System``` - GNU/Linux
     - ```Distro``` - EndevourOS
     - ```Kernel``` - Linux 6.12.10-arch1-1
     - ```Window Manager``` - Hyprland
