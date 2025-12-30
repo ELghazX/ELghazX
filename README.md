@@ -63,7 +63,7 @@ My goal is to work remotely as a **Full-Stack Developer**, contribute to real pr
 
 I’m always open to discussing software development, remote work opportunities, or collaboration.
 
-📫 Email: mghazali.dev@gmail.com
+📫 Email: mghazali.dev@gmail.com  
 🔗 LinkedIn: https://www.linkedin.com/in/elghaz 
 
 Thanks for visiting! 🙌
