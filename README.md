@@ -50,12 +50,6 @@ My goal is to work remotely as a **Full-Stack Developer**, contribute to real pr
 
 ---
 
-## 📊 GitHub Activity
-
-![GitHub Streak](https://streak-stats.demolab.com/?user=elghazx)
-
----
-
 ## 🎯 Current Learning Focus
 
 ✔ React & TypeScript  
