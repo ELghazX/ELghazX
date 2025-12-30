@@ -2,7 +2,7 @@
 ### Aspiring Full-Stack Developer — React • Go • DevOps Basics
 
 📍 Samarinda, Indonesia (UTC+8)  
-🌐 Open to Remote Opportunities
+🌐 Open to Remote Opportunities  
 📫 Email: mghazali@email.com  
 🔗 LinkedIn: https://www.linkedin.com/in/elghaz  
 💻 Portfolio: https://elghaz.my.id
