@@ -32,7 +32,7 @@ My goal is to work remotely as a **Full-Stack Developer**, contribute to real pr
 - React • Next.js (learning)
 
 ### Backend
-- Go (Fiber / Echo)
+- Go (Gin)  
 - RESTful API Design  
 - Authentication (JWT)
 - PostgreSQL / MySQL
