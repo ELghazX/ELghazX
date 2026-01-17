@@ -10,7 +10,7 @@
 
 ---
 
-## 🧑‍💻 About Me
+## About Me
 <!--
 I’m a Computer Science student with a strong interest in **full-stack web development**, especially using **React (Next.js)** on the frontend and **Go** on the backend. I enjoy building real-world applications, learning clean architecture, and deploying projects using modern tools like **Docker and CI/CD**.
 -->
@@ -36,7 +36,7 @@ My interests include:
 
 ---
 
-## 🛠 Tech Stack
+## Tech Stack
 
 ### Backend
 - Go (net/http, Gin, Fiber - learning & comparing)
